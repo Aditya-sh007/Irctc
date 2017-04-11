@@ -1,0 +1,13 @@
+<html>
+<head>
+
+<title>Sign Up-IRCTC OFFICIAL SITE@</title>
+
+</head>
+
+<frameset rows="95,50,70,300,*">
+
+<frame src="header.html" frameborder="0" name="side">
+<frame src="signup.html" frameborder="0" name="top">
+</frameset>
+</html>
